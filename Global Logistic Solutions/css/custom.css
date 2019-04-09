@@ -4,7 +4,7 @@ h1{
     display: inline-block;
     color: white;
     font-weight: bold;
-    border-bottom: 1px solid blue;   
+    border-bottom: 1px solid blue;
 }
 
 h1:hover{
