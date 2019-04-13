@@ -1,15 +1,8 @@
-h1{
-    font-family: monospace;
-    background-color: red;
-    display: inline-block;
-    color: white;
-    font-weight: bold;
-    border-bottom: 1px solid blue;
+#cover{
+    background: url(/img/cover.jpg);
 }
 
-h1:hover{
-    border-bottom: 5px solid blue;
-}
+
 .nav-link {
     color: aqua;
 }
@@ -17,12 +10,15 @@ h1:hover{
 .navbar-light .navbar-nav .nav-link{
     color: cornflowerblue;
     font-weight: bold;
+    text-transform: uppercase;
   
 }
 
 .navbar-light .navbar-nav .nav-link:hover{
     color: red;
-    border-bottom: 1px solid blue; display: inline-block;
+    
 }
+
+
 
 
