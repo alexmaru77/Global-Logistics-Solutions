@@ -10,3 +10,19 @@ h1{
 h1:hover{
     border-bottom: 5px solid blue;
 }
+.nav-link {
+    color: aqua;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: cornflowerblue;
+    font-weight: bold;
+  
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: red;
+    border-bottom: 1px solid blue; display: inline-block;
+}
+
+
