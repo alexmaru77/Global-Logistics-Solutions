@@ -1,5 +1,7 @@
-#cover{
-    background: url(/img/cover.jpg);
+.cover{
+    background-color:rgb(5, 108, 168);
+    height:400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -11,14 +13,21 @@
     color: cornflowerblue;
     font-weight: bold;
     text-transform: uppercase;
-  
 }
 
 .navbar-light .navbar-nav .nav-link:hover{
     color: red;
+    border-bottom: 0.5px solid blue;
+
+}
+
+.ciao{
+    color: black;
     
 }
 
-
-
-
+.testata{
+    text-transform: uppercase;
+    color:white;
+    
+}
